@@ -1,7 +1,7 @@
 # Essentials-of-AI
 Two AI models using Landing AI: one for drowsiness detection and another for age group and gender classification.
 
-#📌 Models Included
+## 📌 Models Included
 1. 👁️ Eye-Based Drowsiness Detection
 Objective: Detect eye states such as awake, fatigued, yawning, and drowsy using deep learning.
 
