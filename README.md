@@ -2,7 +2,7 @@
 Two AI models using Landing AI: one for drowsiness detection and another for age group and gender classification.
 
 ## 📌 Models Included
-1. 👁️ Eye-Based Drowsiness Detection
+## 1. 👁️ Eye-Based Drowsiness Detection
 Objective: Detect eye states such as awake, fatigued, yawning, and drowsy using deep learning.
 
 Use Case: Enhancing safety in transportation, manufacturing, healthcare, and exam monitoring.
@@ -18,7 +18,7 @@ iii. Confusion matrix with 15 correct and 1 misclassified sample
 iv. QR-based image upload workflow
 
 
-2. 🧑‍🦰 Age Group & Gender Classification
+## 2. 🧑‍🦰 Age Group & Gender Classification
 Objective: Classify individuals into age groups and identify gender from facial images.
 
 Use Case: Advertising, digital verification, crowd analytics, and personalized services.
