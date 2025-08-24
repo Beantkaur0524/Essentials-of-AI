@@ -7,7 +7,7 @@ Two AI models using Landing AI: one for drowsiness detection and another for age
 ![Screenshot](Screenshot.png)
 
 ## 2. Description ##
-![Screenshot](Screenshot4.png)
+![Screenshot](Screenshot 4.png)
 
 ## 3. Input / Output ##
 ![Screenshot](Screenshot1.png)
